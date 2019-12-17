@@ -2,8 +2,6 @@
   import axios from "axios";
   let dragZoneText = "Drag csv file to this Drop Zone ...";
   async function dropHandler(ev) {
-    console.log("File(s) dropped");
-
     // Prevent default behavior (Prevent file from being opened)
     ev.preventDefault();
     try {
@@ -45,8 +43,6 @@
   }
 
   function dragOverHandler(ev) {
-    console.log("File(s) in drop zone");
-
     // Prevent default behavior (Prevent file from being opened)
     ev.preventDefault();
   }

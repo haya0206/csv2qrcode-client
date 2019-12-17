@@ -7,8 +7,8 @@
     font-weight: 300;
   }
   img {
-    width: 250px;
-    height: 200px;
+    width: 252px;
+    height: 204px;
   }
   h4 {
     font-weight: 200;
