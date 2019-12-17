@@ -1,8 +1,8 @@
-# ⚡️CsvToQrcode
+# ⚡️csv2qrcode
 
 https://csv2qrcode.com
 
-CsvToQrcode is make csv to qrcode ✨
+csv2qrcode is a site that makes csv to qrcode✨
 
 # Stack
 
